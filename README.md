@@ -1,2 +1,2 @@
 # Fingerabdruck
-Parmak İzi Uygulaması
+Eksik Parmak İzi Tamamlanması Ve Benzerlik Sayısal Verilerinin Hesaplanması
